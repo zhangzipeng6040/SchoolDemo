@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day10_Demo/Day10_Demo.iml" filepath="$PROJECT_DIR$/Day10_Demo/Day10_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" filepath="$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0805.iml" filepath="$PROJECT_DIR$/gmall0805.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoupiao/shoupiao.iml" filepath="$PROJECT_DIR$/shoupiao/shoupiao.iml" />
+    </modules>
+  </component>
+</project>
