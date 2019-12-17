@@ -1,5 +1,7 @@
 package com.atguigu;
 
+
+
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.locks.Lock;
@@ -26,7 +28,6 @@ class Ticket{
 public class NewShouPiao {
     public static void main(String[] args) {
         ExecutorService executorService = Executors.newFixedThreadPool(3);
-
         Ticket ticket = new Ticket();
         try {
             for (int i = 0; i < 50; i++) {
