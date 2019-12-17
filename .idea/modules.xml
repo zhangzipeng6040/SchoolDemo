@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day10_Demo/Day10_Demo.iml" filepath="$PROJECT_DIR$/Day10_Demo/Day10_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day11_Demo/Day11_Demo.iml" filepath="$PROJECT_DIR$/Day11_Demo/Day11_Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" filepath="$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall0805.iml" filepath="$PROJECT_DIR$/gmall0805.iml" />
       <module fileurl="file://$PROJECT_DIR$/shoupiao/shoupiao.iml" filepath="$PROJECT_DIR$/shoupiao/shoupiao.iml" />

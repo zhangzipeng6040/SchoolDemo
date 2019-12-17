@@ -20,7 +20,7 @@ class Ticket {
     private int count = 30;
     private Lock lock = new ReentrantLock();
 
-    public synchronized void sale() {
+    public void sale() {
         lock.lock();
         try {
             if (count > 0) {
