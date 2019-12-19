@@ -15,9 +15,8 @@ class Ticket{
         lock.lock();
         try {
             if (number > 0) {
-                System.out.println(Thread.currentThread().getName() + "卖出了" + (number--) + "\t 剩下:" + number);
+                System.out.println(Thread.currentThread().getName() + "卖出" + (number--) + "\t 剩下:" + number);
             }
-
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
