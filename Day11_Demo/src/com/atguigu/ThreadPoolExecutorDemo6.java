@@ -7,6 +7,12 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
+/**
+ * 并发修改异常   java.util.ConcurrentModification
+ * 栈溢出异常    java.lang.StackOverflowError
+ * 堆溢出异常    java.lang.OutOfMemoryError
+ * 阻塞队列满时抛出的异常 java.util.concurrent.RejectedExecutionException
+ */
 class Ticket60{
     private int number = 60;
     private int count = 0;
